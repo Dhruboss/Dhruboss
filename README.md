@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Showvik Slaman Dhrubo
 #### Software Quality Assurance and Automation Engineer
 
-Skills: SELENIUM /TESTNG /APPIUM / POSTMAN/ JUNIT / NEWMAN / JMETER / JAVA
+Skills: KATALON STUDIO/ SELENIUM /TESTNG /APPIUM / POSTMAN/ JUNIT / NEWMAN / JMETER / JAVA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dhruboss)  
